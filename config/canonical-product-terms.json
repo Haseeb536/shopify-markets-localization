@@ -1,0 +1,437 @@
+{
+  "_note": "Enthusiast / SEO terms — keep consistent in titles; not literal dictionary translations. Merged after motorsport-terminology.json.",
+  "glossary": {
+    "Intake": {
+      "DE": "Intake",
+      "FR": "Intake",
+      "EN": "Intake",
+      "IT": "Intake",
+      "ES": "Intake",
+      "PL": "Intake"
+    },
+    "Air Intake": {
+      "DE": "Air Intake",
+      "FR": "Air Intake",
+      "EN": "Air Intake",
+      "IT": "Air Intake",
+      "ES": "Air Intake",
+      "PL": "Air Intake"
+    },
+    "Intercooler": {
+      "DE": "Ladeluftkühler",
+      "FR": "Intercooler",
+      "EN": "Intercooler",
+      "IT": "Intercooler",
+      "ES": "Intercooler",
+      "PL": "Intercooler"
+    },
+    "intercooler": {
+      "DE": "Ladeluftkühler",
+      "FR": "Intercooler",
+      "EN": "intercooler",
+      "IT": "Intercooler",
+      "ES": "Intercooler",
+      "PL": "Intercooler"
+    },
+    "Downpipe": {
+      "DE": "Downpipe",
+      "FR": "Downpipe",
+      "EN": "Downpipe",
+      "IT": "Downpipe",
+      "ES": "Downpipe",
+      "PL": "Downpipe"
+    },
+    "Catback": {
+      "DE": "Catback",
+      "FR": "Catback",
+      "EN": "Catback",
+      "IT": "Catback",
+      "ES": "Catback",
+      "PL": "Catback"
+    },
+    "Cat-Back": {
+      "DE": "Catback",
+      "FR": "Catback",
+      "EN": "Catback",
+      "IT": "Catback",
+      "ES": "Catback",
+      "PL": "Catback"
+    },
+    "Turbo Inlet": {
+      "DE": "Turbo Inlet",
+      "FR": "Turbo Inlet",
+      "EN": "Turbo Inlet",
+      "IT": "Turbo Inlet",
+      "ES": "Turbo Inlet",
+      "PL": "Turbo Inlet"
+    },
+    "Turbo Outlet": {
+      "DE": "Turbo Outlet",
+      "FR": "Turbo Outlet",
+      "EN": "Turbo Outlet",
+      "IT": "Turbo Outlet",
+      "ES": "Turbo Outlet",
+      "PL": "Turbo Outlet"
+    },
+    "Oil Catch Can": {
+      "DE": "Oil Catch Can",
+      "FR": "Oil Catch Can",
+      "EN": "Oil Catch Can",
+      "IT": "Oil Catch Can",
+      "ES": "Oil Catch Can",
+      "PL": "Oil Catch Can"
+    },
+    "Blow Off Valve": {
+      "DE": "Blow-Off-Ventil",
+      "FR": "soupape de décharge",
+      "EN": "blow-off valve",
+      "IT": "valvola di scarico",
+      "ES": "válvula de descarga",
+      "PL": "zawór blow-off"
+    },
+    "Verstelbare actuator": {
+      "DE": "Verstellbarer Stellantrieb",
+      "FR": "Actionneur réglable",
+      "EN": "Adjustable actuator",
+      "IT": "Attuatore regolabile",
+      "ES": "Actuador regulable",
+      "PL": "Regulowany siłownik"
+    },
+    "Siliconen slangenset": {
+      "DE": "Silikon-Schlauchset",
+      "FR": "Kit de durites silicone",
+      "EN": "Silicone hose kit",
+      "IT": "Kit tubi in silicone",
+      "ES": "Kit de mangueras de silicona",
+      "PL": "Zestaw węży silikonowych"
+    },
+    "Verstelbare achterste onderste draagarmen": {
+      "DE": "Verstellbare hintere untere Tragarme",
+      "FR": "Bras de suspension arrière inférieurs réglables",
+      "EN": "Adjustable rear lower control arms",
+      "IT": "Bracci posteriori inferiori regolabili",
+      "ES": "Brazos de control traseros inferiores regulables",
+      "PL": "Regulowane tylne dolne wahacze"
+    },
+    "Blow-Off Valve": {
+      "DE": "Blow-Off-Ventil",
+      "FR": "soupape de décharge",
+      "EN": "blow-off valve",
+      "IT": "valvola di scarico",
+      "ES": "válvula de descarga",
+      "PL": "zawór blow-off"
+    },
+    "blow off valve": {
+      "DE": "Blow-Off-Ventil",
+      "FR": "soupape de décharge",
+      "EN": "blow-off valve",
+      "IT": "valvola di scarico",
+      "ES": "válvula de descarga",
+      "PL": "zawór blow-off"
+    },
+    "blow-off valve": {
+      "DE": "Blow-Off-Ventil",
+      "FR": "soupape de décharge",
+      "EN": "blow-off valve",
+      "IT": "valvola di scarico",
+      "ES": "válvula de descarga",
+      "PL": "zawór blow-off"
+    },
+    "Turbo Muffler Delete": {
+      "DE": "Turbo Muffler Delete",
+      "FR": "Turbo Muffler Delete",
+      "EN": "Turbo Muffler Delete",
+      "IT": "Turbo Muffler Delete",
+      "ES": "Turbo Muffler Delete",
+      "PL": "Turbo Muffler Delete"
+    },
+    "Inlaat": {
+      "DE": "Intake",
+      "FR": "Intake",
+      "EN": "Intake",
+      "IT": "Intake",
+      "ES": "Intake",
+      "PL": "Intake"
+    },
+    "Luchtinlaat": {
+      "DE": "Air Intake",
+      "FR": "Air Intake",
+      "EN": "Air Intake",
+      "IT": "Air Intake",
+      "ES": "Air Intake",
+      "PL": "Air Intake"
+    },
+    "Interkoeler": {
+      "DE": "Ladeluftkühler",
+      "FR": "Intercooler",
+      "EN": "Intercooler",
+      "IT": "Intercooler",
+      "ES": "Intercooler",
+      "PL": "Intercooler"
+    },
+    "Recirculation Valve": {
+      "DE": "Recirculation Valve",
+      "FR": "Recirculation Valve",
+      "EN": "Recirculation Valve",
+      "IT": "Recirculation Valve",
+      "ES": "Recirculation Valve",
+      "PL": "Recirculation Valve"
+    },
+    "Recirculation Valve Kit": {
+      "DE": "Recirculation Valve Kit",
+      "FR": "Recirculation Valve Kit",
+      "EN": "Recirculation Valve Kit",
+      "IT": "Recirculation Valve Kit",
+      "ES": "Recirculation Valve Kit",
+      "PL": "Recirculation Valve Kit"
+    },
+    "Charge Pipe": {
+      "DE": "Charge Pipe",
+      "FR": "Charge Pipe",
+      "EN": "Charge Pipe",
+      "IT": "Charge Pipe",
+      "ES": "Charge Pipe",
+      "PL": "Charge Pipe"
+    },
+    "Oil Cooler": {
+      "DE": "Oil Cooler",
+      "FR": "Oil Cooler",
+      "EN": "Oil Cooler",
+      "IT": "Oil Cooler",
+      "ES": "Oil Cooler",
+      "PL": "Oil Cooler"
+    },
+    "Vervangingsluchtfilter": {
+      "DE": "Ersatzluftfilter",
+      "FR": "Filtre à air de rechange",
+      "EN": "Replacement Air Filter",
+      "IT": "Filtro aria di ricambio",
+      "ES": "Filtro de aire de repuesto",
+      "PL": "Filtr powietrza zamienny"
+    },
+    "Vervangingsfilter": {
+      "DE": "Ersatzluftfilter",
+      "FR": "Filtre de rechange",
+      "EN": "Replacement filter",
+      "IT": "Filtro di ricambio",
+      "ES": "Filtro de repuesto",
+      "PL": "Filtr zamienny"
+    },
+    "Radiateur": {
+      "DE": "Kühler",
+      "FR": "Radiateur",
+      "EN": "Radiator",
+      "IT": "Radiatore",
+      "ES": "Radiador",
+      "PL": "Chłodnica"
+    },
+    "Catback uitlaat": {
+      "DE": "Catback",
+      "FR": "Catback",
+      "EN": "Catback",
+      "IT": "Catback",
+      "ES": "Catback",
+      "PL": "Catback"
+    },
+    "Uitlaat": {
+      "DE": "Auspuff",
+      "FR": "Échappement",
+      "EN": "Exhaust",
+      "IT": "Scarico",
+      "ES": "Escape",
+      "PL": "Układ wydechowy"
+    },
+    "Catback Uitlaat": {
+      "DE": "Catback Auspuff",
+      "FR": "Catback Échappement",
+      "EN": "Catback Exhaust",
+      "IT": "Catback Scarico",
+      "ES": "Catback Escape",
+      "PL": "Catback układ wydechowy"
+    },
+    "Inlaatkanaal": {
+      "DE": "Intake Kanal",
+      "FR": "Canal d'admission",
+      "EN": "Intake Channel",
+      "IT": "Canale di aspirazione",
+      "ES": "Conducto de admisión",
+      "PL": "Kanał dolotowy"
+    },
+    "Oliekoeler": {
+      "DE": "Oil Cooler",
+      "FR": "Radiateur d'huile",
+      "EN": "Oil Cooler",
+      "IT": "Radiatore olio",
+      "ES": "Refrigerador de aceite",
+      "PL": "Chłodnica oleju"
+    },
+    "Oliekoeler kit": {
+      "DE": "Oil Cooler Kit",
+      "FR": "Kit radiateur d'huile",
+      "EN": "Oil Cooler Kit",
+      "IT": "Kit radiatore olio",
+      "ES": "Kit refrigerador de aceite",
+      "PL": "Zestaw chłodnicy oleju"
+    },
+    "Carbon-Ansaugstutzen": {
+      "DE": "Carbon Intake",
+      "FR": "Admission carbone",
+      "EN": "Carbon Intake",
+      "IT": "Intake in carbonio",
+      "ES": "Intake de carbono",
+      "PL": "Carbon Intake"
+    },
+    "Kohlefaser Ansaugstutzen": {
+      "DE": "Carbon Ansaugsystem",
+      "FR": "Admission carbone",
+      "EN": "Carbon Intake",
+      "IT": "Sistema di aspirazione in carbonio",
+      "ES": "Sistema de admisión de carbono",
+      "PL": "Carbon Intake"
+    },
+    "Carbon Ansaugstutzen": {
+      "DE": "Carbon Ansaugsystem",
+      "FR": "Admission carbone",
+      "EN": "Carbon Intake",
+      "IT": "Intake in carbonio",
+      "ES": "Intake de carbono",
+      "PL": "Carbon Intake"
+    },
+    "Ansaugstutzen": {
+      "DE": "Carbon Intake",
+      "FR": "Admission",
+      "EN": "Intake",
+      "IT": "Intake",
+      "ES": "Intake",
+      "PL": "Intake"
+    },
+    "Midpipe": {
+      "DE": "Midpipe",
+      "FR": "Midpipe",
+      "EN": "Midpipe",
+      "IT": "Midpipe",
+      "ES": "Midpipe",
+      "PL": "Midpipe"
+    },
+    "Charge Pipe": {
+      "DE": "Charge Pipe",
+      "FR": "Charge Pipe",
+      "EN": "Charge Pipe",
+      "IT": "Charge Pipe",
+      "ES": "Charge Pipe",
+      "PL": "Charge Pipe"
+    },
+    "Resonator Delete": {
+      "DE": "Resonator Delete",
+      "FR": "Resonator Delete",
+      "EN": "Resonator Delete",
+      "IT": "Resonator Delete",
+      "ES": "Resonator Delete",
+      "PL": "Resonator Delete"
+    },
+    "Middenpijp": {
+      "DE": "Midpipe",
+      "FR": "Midpipe",
+      "EN": "Midpipe",
+      "IT": "Midpipe",
+      "ES": "Midpipe",
+      "PL": "Midpipe"
+    },
+    "Laadluchtpijp": {
+      "DE": "Charge Pipe",
+      "FR": "Charge Pipe",
+      "EN": "Charge Pipe",
+      "IT": "Charge Pipe",
+      "ES": "Charge Pipe",
+      "PL": "Charge Pipe"
+    },
+    "Resonator delete": {
+      "DE": "Resonator Delete",
+      "FR": "Resonator Delete",
+      "EN": "Resonator Delete",
+      "IT": "Resonator Delete",
+      "ES": "Resonator Delete",
+      "PL": "Resonator Delete"
+    },
+    "Forge Intake Inlaatkanaal": {
+      "DE": "Forge Intake Kanal",
+      "FR": "Forge Intake Canal d'admission",
+      "EN": "Forge Intake Channel",
+      "IT": "Forge Intake Canale di aspirazione",
+      "ES": "Forge Intake Conducto de admisión",
+      "PL": "Forge Intake Kanał dolotowy"
+    },
+    "Forge Oliekoeler kit": {
+      "DE": "Forge Oil Cooler Kit",
+      "FR": "Forge Kit radiateur d'huile",
+      "EN": "Forge Oil Cooler Kit",
+      "IT": "Forge Kit radiatore olio",
+      "ES": "Forge Kit refrigerador de aceite",
+      "PL": "Forge Zestaw chłodnicy oleju"
+    },
+    "Motorsport Carbon Induction Intake": {
+      "DE": "Motorsport Carbon Induction Ansaugung",
+      "FR": "Admission d'air par induction en carbone sport automobile",
+      "EN": "Motorsport Carbon Induction Intake",
+      "IT": "Aspirazione in carbonio Motorsport",
+      "ES": "Admisión de carbono Motorsport",
+      "PL": "Motorsportowy dolot indukcyjny z włókna węglowego"
+    },
+    "Carbon Induction Intake": {
+      "DE": "Carbon Induction Ansaugung",
+      "FR": "Admission d'air par induction en carbone",
+      "EN": "Carbon Induction Intake",
+      "IT": "Aspirazione in carbonio",
+      "ES": "Admisión de carbono por inducción",
+      "PL": "Dolot indukcyjny z włókna węglowego"
+    },
+    "Induction Intake": {
+      "DE": "Induction Ansaugung",
+      "FR": "Admission d'air par induction",
+      "EN": "Induction Intake",
+      "IT": "Aspirazione a induzione",
+      "ES": "Admisión por inducción",
+      "PL": "Dolot indukcyjny"
+    },
+    "Carbon Fiber Intake": {
+      "DE": "Carbon Intake",
+      "FR": "Admission en fibre de carbone",
+      "EN": "Carbon Fiber Intake",
+      "IT": "Presa d'aria in fibra di carbonio",
+      "ES": "Toma de aire de fibra de carbono",
+      "PL": "Dolot z włókna węglowego"
+    },
+    "Carbon Fiber Intake System": {
+      "DE": "Carbon Fiber Ansaugsystem",
+      "FR": "Système d'admission en fibre de carbone",
+      "EN": "Carbon Fiber Intake System",
+      "IT": "Sistema di aspirazione in fibra di carbonio",
+      "ES": "Sistema de admisión de fibra de carbono",
+      "PL": "System dolotowy z włókna węglowego"
+    },
+    "Intake Kit": {
+      "DE": "Intake-Kit",
+      "FR": "Kit admission",
+      "EN": "Intake Kit",
+      "IT": "Kit aspirazione",
+      "ES": "Kit de admisión",
+      "PL": "Zestaw dolotowy"
+    },
+    "Short Shift": {
+      "DE": "Short Shift",
+      "FR": "Short Shift",
+      "EN": "Short Shift",
+      "IT": "Short Shift",
+      "ES": "Short Shift",
+      "PL": "Short Shift"
+    },
+    "Short Shift Kit": {
+      "DE": "Short Shift Kit",
+      "FR": "Short Shift Kit",
+      "EN": "Short Shift Kit",
+      "IT": "Short Shift Kit",
+      "ES": "Short Shift Kit",
+      "PL": "Short Shift Kit"
+    }
+  }
+}

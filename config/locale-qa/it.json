@@ -1,0 +1,31 @@
+{
+  "_comment": "Italian storefront QA — grammar + tuning copy",
+  "replacements": [
+    { "find": "una tubo di aspirazione", "replace": "un tubo di aspirazione" },
+    { "find": "Una tubo di aspirazione", "replace": "Un tubo di aspirazione" },
+    { "find": "una tubo", "replace": "un tubo" },
+    { "find": "una sistema", "replace": "un sistema" },
+    { "find": "una kit", "replace": "un kit" },
+    { "find": "uno tubo", "replace": "un tubo" },
+    { "find": "tuning advice by experts", "replace": "Consulenza tuning da esperti" },
+    { "find": "Consigli di messa a punto", "replace": "Consulenza tuning" },
+    { "find": "consigli di messa a punto", "replace": "consulenza tuning" },
+    { "find": "Forge turbo ingresso Kit", "replace": "Forge Turbo Inlet Kit" },
+    { "find": "turbo ingresso", "replace": "Turbo Inlet" },
+    { "find": "Vervangingsluchtfilter", "replace": "Filtro aria di ricambio" },
+    { "find": "staffa per l'installazione", "replace": "hardware di montaggio incluso" },
+    { "find": "valvola di ricircolo Kit", "replace": "Kit valvola di ricircolo" },
+    { "find": "Valvola di ricircolo Kit", "replace": "Kit valvola di ricircolo" },
+    { "find": "Forja", "replace": "Forge" },
+    { "find": "della forgia", "replace": "Forge" },
+    { "find": "forgia", "replace": "Forge" },
+    { "find": "cambio corto Forge", "replace": "Short Shift Kit Forge" },
+    { "find": "Kit cambio corto Forge", "replace": "Kit Short Shift Forge" },
+    { "find": "kit cambio corto", "replace": "Short Shift Kit" },
+    { "find": "cambio corto", "replace": "Short Shift" },
+    { "find": "Forge Intake Kanal", "replace": "Forge Intake Canale" },
+    { "find": "Intake Kanal", "replace": "Intake Canale" },
+    { "find": "valvola di sfiato", "replace": "valvola di scarico" },
+    { "find": "Valvola di sfiato", "replace": "Valvola di scarico" }
+  ]
+}

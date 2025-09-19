@@ -1,0 +1,112 @@
+{
+  "_note": "Delivery date month labels — numeric keys 01-12 for Liquid, abbr keys for HTML repair.",
+  "numeric": {
+    "de": ["Jan.", "Feb.", "März", "Apr.", "Mai", "Juni", "Juli", "Aug.", "Sep.", "Okt.", "Nov.", "Dez."],
+    "fr": ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."],
+    "it": ["gen", "feb", "mar", "apr", "mag", "giugno", "luglio", "ago", "set", "ott", "nov", "dic"],
+    "es": ["ene.", "feb.", "mar.", "abr.", "mayo", "junio", "julio", "ago.", "sept.", "oct.", "nov.", "dic."],
+    "pl": ["sty", "lut", "mar", "kwi", "maj", "cze", "lip", "sie", "wrz", "paź", "lis", "gru"],
+    "nl": ["jan", "feb", "mrt", "apr", "mei", "juni", "juli", "aug", "sep", "okt", "nov", "dec"],
+    "en": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+  },
+  "abbr": {
+    "de": {
+      "jan": "Jan.",
+      "feb": "Feb.",
+      "mar": "März",
+      "apr": "Apr.",
+      "may": "Mai",
+      "jun": "Juni",
+      "jul": "Juli",
+      "aug": "Aug.",
+      "sep": "Sep.",
+      "oct": "Okt.",
+      "nov": "Nov.",
+      "dec": "Dez."
+    },
+    "fr": {
+      "jan": "janv.",
+      "feb": "févr.",
+      "mar": "mars",
+      "apr": "avr.",
+      "may": "mai",
+      "jun": "juin",
+      "jul": "juil.",
+      "aug": "août",
+      "sep": "sept.",
+      "oct": "oct.",
+      "nov": "nov.",
+      "dec": "déc."
+    },
+    "it": {
+      "jan": "gen",
+      "feb": "feb",
+      "mar": "mar",
+      "apr": "apr",
+      "may": "mag",
+      "jun": "giugno",
+      "jul": "luglio",
+      "aug": "ago",
+      "sep": "set",
+      "oct": "ott",
+      "nov": "nov",
+      "dec": "dic"
+    },
+    "es": {
+      "jan": "ene.",
+      "feb": "feb.",
+      "mar": "mar.",
+      "apr": "abr.",
+      "may": "mayo",
+      "jun": "junio",
+      "jul": "julio",
+      "aug": "ago.",
+      "sep": "sept.",
+      "oct": "oct.",
+      "nov": "nov.",
+      "dec": "dic."
+    },
+    "pl": {
+      "jan": "sty",
+      "feb": "lut",
+      "mar": "mar",
+      "apr": "kwi",
+      "may": "maj",
+      "jun": "cze",
+      "jul": "lip",
+      "aug": "sie",
+      "sep": "wrz",
+      "oct": "paź",
+      "nov": "lis",
+      "dec": "gru"
+    },
+    "nl": {
+      "jan": "jan",
+      "feb": "feb",
+      "mar": "mrt",
+      "apr": "apr",
+      "may": "mei",
+      "jun": "juni",
+      "jul": "juli",
+      "aug": "aug",
+      "sep": "sep",
+      "oct": "okt",
+      "nov": "nov",
+      "dec": "dec"
+    },
+    "en": {
+      "jan": "Jan",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Apr",
+      "may": "May",
+      "jun": "Jun",
+      "jul": "Jul",
+      "aug": "Aug",
+      "sep": "Sep",
+      "oct": "Oct",
+      "nov": "Nov",
+      "dec": "Dec"
+    }
+  }
+}

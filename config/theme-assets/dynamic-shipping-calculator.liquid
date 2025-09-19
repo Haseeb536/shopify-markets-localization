@@ -1,0 +1,94 @@
+{% comment %}
+  Dynamic Shipping Calculator — locale-aware month labels (JT localization canonical).
+{% endcomment %}
+
+{% assign cutoff_hour = 15 %}
+{% assign current_hour = 'now' | date: "%H" | plus: 0 %}
+{% assign seconds_in_day = 86400 %}
+
+{% assign st_value = product.metafields.custom.shipping_time | default: 0 | plus: 0 %}
+{% assign stm_value = product.metafields.custom.shipping_time_margin | default: 0 | plus: 0 %}
+
+{% if st_value > 0 %}
+
+  {% assign adjusted_st = st_value %}
+  {% if current_hour >= cutoff_hour %}
+    {% assign adjusted_st = st_value | plus: 1 %}
+  {% endif %}
+
+  {% assign current_timestamp = 'now' | date: "%s" | plus: 0 %}
+
+  {% assign working_days_added = 0 %}
+  {% assign start_timestamp = current_timestamp %}
+  {% for i in (1..30) %}
+    {% assign extra_days_in_sec = i | times: seconds_in_day %}
+    {% assign temp_timestamp = current_timestamp | plus: extra_days_in_sec %}
+    {% assign weekday = temp_timestamp | date: "%w" %}
+    {% unless weekday == '0' or weekday == '6' %}
+      {% assign working_days_added = working_days_added | plus: 1 %}
+      {% assign start_timestamp = temp_timestamp %}
+    {% endunless %}
+    {% if working_days_added >= adjusted_st %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign total_days_needed = adjusted_st | plus: stm_value %}
+  {% assign working_days_added = 0 %}
+  {% assign end_timestamp = current_timestamp %}
+  {% for i in (1..30) %}
+    {% assign extra_days_in_sec = i | times: seconds_in_day %}
+    {% assign temp_timestamp = current_timestamp | plus: extra_days_in_sec %}
+    {% assign weekday = temp_timestamp | date: "%w" %}
+    {% unless weekday == '0' or weekday == '6' %}
+      {% assign working_days_added = working_days_added | plus: 1 %}
+      {% assign end_timestamp = temp_timestamp %}
+    {% endunless %}
+    {% if working_days_added >= total_days_needed %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign start_day = start_timestamp | date: "%-d" %}
+  {% assign end_day = end_timestamp | date: "%-d" %}
+  {% assign start_month_num = start_timestamp | date: "%m" %}
+  {% assign end_month_num = end_timestamp | date: "%m" %}
+
+  {% assign delivery_locale = localization.language.iso_code | default: request.locale.iso_code | split: '-' | first %}
+  {% case delivery_locale %}
+    {% when 'de' %}
+      {% assign month_map = '01:Jan.,02:Feb.,03:März,04:Apr.,05:Mai,06:Juni,07:Juli,08:Aug.,09:Sep.,10:Okt.,11:Nov.,12:Dez.' | split: ',' %}
+    {% when 'fr' %}
+      {% assign month_map = '01:janv.,02:févr.,03:mars,04:avr.,05:mai,06:juin,07:juil.,08:août,09:sept.,10:oct.,11:nov.,12:déc.' | split: ',' %}
+    {% when 'it' %}
+      {% assign month_map = '01:gen,02:feb,03:mar,04:apr,05:mag,06:giu,07:lug,08:ago,09:set,10:ott,11:nov,12:dic' | split: ',' %}
+    {% when 'es' %}
+      {% assign month_map = '01:ene,02:feb,03:mar,04:abr,05:may,06:jun,07:jul,08:ago,09:sep,10:oct,11:nov,12:dic' | split: ',' %}
+    {% when 'pl' %}
+      {% assign month_map = '01:sty,02:lut,03:mar,04:kwi,05:maj,06:cze,07:lip,08:sie,09:wrz,10:paź,11:lis,12:gru' | split: ',' %}
+    {% when 'nl' %}
+      {% assign month_map = '01:jan,02:feb,03:mrt,04:apr,05:mei,06:jun,07:jul,08:aug,09:sep,10:okt,11:nov,12:dec' | split: ',' %}
+    {% else %}
+      {% assign month_map = '01:Jan,02:Feb,03:Mar,04:Apr,05:May,06:Jun,07:Jul,08:Aug,09:Sep,10:Oct,11:Nov,12:Dec' | split: ',' %}
+  {% endcase %}
+
+  {% assign start_month_label = start_month_num %}
+  {% assign end_month_label = end_month_num %}
+  {% for pair in month_map %}
+    {% assign parts = pair | split: ':' %}
+    {% if parts[0] == start_month_num %}{% assign start_month_label = parts[1] %}{% endif %}
+    {% if parts[0] == end_month_num %}{% assign end_month_label = parts[1] %}{% endif %}
+  {% endfor %}
+
+  <div class="shipping-calculator">
+    <img src="{{ 'delivery-icon.svg' | asset_url }}" width="20" height="20" alt="{% render 'jt-locale-string', key: 'product.delivery_icon_alt' %}" loading="lazy">
+    <span>{{ 'jt.product.expected_delivery' | t }}:
+      {% if delivery_locale == 'de' %}
+        {{ start_day }}. {{ start_month_label }} - {{ end_day }}. {{ end_month_label }}
+      {% else %}
+        {{ start_day }} {{ start_month_label }} - {{ end_day }} {{ end_month_label }}
+      {% endif %}
+    </span>
+  </div>
+
+{% endif %}

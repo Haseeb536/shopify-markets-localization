@@ -1,0 +1,242 @@
+{
+  "_note": "Header / nav strings registered on theme + locale JSON overrides.",
+  "bySourceValue": {
+    "My Store": {
+      "de": "JT Products",
+      "fr": "JT Products",
+      "en": "JT Products",
+      "it": "JT Products",
+      "es": "JT Products",
+      "pl": "JT Products"
+    },
+    "Home": {
+      "de": "Startseite",
+      "fr": "Accueil",
+      "en": "Home",
+      "it": "Inizio",
+      "es": "Inicio",
+      "pl": "Strona główna"
+    },
+    "Categories": {
+      "de": "Kategorien",
+      "fr": "Catégories",
+      "en": "Categories",
+      "it": "Categorie",
+      "es": "Categorías",
+      "pl": "Kategorie"
+    },
+    "Contact": {
+      "de": "Kontakt",
+      "fr": "Contact",
+      "en": "Contact",
+      "it": "Contatti",
+      "es": "Contacto",
+      "pl": "Kontakt"
+    },
+    "Catalog": {
+      "de": "Katalog",
+      "fr": "Catalogue",
+      "en": "Catalog",
+      "it": "Catalogo",
+      "es": "Catálogo",
+      "pl": "Katalog"
+    },
+    "Cart": {
+      "de": "Warenkorb",
+      "fr": "Panier",
+      "en": "Cart",
+      "it": "Carrello",
+      "es": "Carrito",
+      "pl": "Koszyk"
+    },
+    "Cart0": {
+      "de": "Warenkorb",
+      "fr": "Panier",
+      "en": "Cart",
+      "it": "Carrello",
+      "es": "Carrito",
+      "pl": "Koszyk"
+    },
+    "Cart6": {
+      "de": "Warenkorb",
+      "fr": "Panier",
+      "en": "Cart",
+      "it": "Carrello",
+      "es": "Carrito",
+      "pl": "Koszyk"
+    },
+    "Mijn winkel": {
+      "de": "JT Products",
+      "fr": "JT Products",
+      "en": "JT Products",
+      "it": "JT Products",
+      "es": "JT Products",
+      "pl": "JT Products"
+    },
+    "Categorieën": {
+      "de": "Kategorien",
+      "fr": "Catégories",
+      "en": "Categories",
+      "it": "Categorie",
+      "es": "Categorías",
+      "pl": "Kategorie"
+    },
+    "Contact opnemen": {
+      "de": "Kontakt",
+      "fr": "Contact",
+      "en": "Contact",
+      "it": "Contatti",
+      "es": "Contacto",
+      "pl": "Kontakt"
+    },
+    "Catalogus": {
+      "de": "Katalog",
+      "fr": "Catalogue",
+      "en": "Catalog",
+      "it": "Catalogo",
+      "es": "Catálogo",
+      "pl": "Katalog"
+    }
+  },
+  "localeKeys": {
+    "general.breadcrumb.home": {
+      "de": "Startseite",
+      "fr": "Accueil",
+      "en": "Home",
+      "it": "Inizio",
+      "es": "Inicio",
+      "pl": "Strona główna"
+    },
+    "general.breadcrumbs.home": {
+      "de": "Startseite",
+      "fr": "Accueil",
+      "en": "Home",
+      "it": "Inizio",
+      "es": "Inicio",
+      "pl": "Strona główna"
+    },
+    "general.search.search": {
+      "de": "Suchen",
+      "fr": "Rechercher",
+      "en": "Search",
+      "it": "Cerca",
+      "es": "Buscar",
+      "pl": "Szukaj"
+    },
+    "header.general.shop_name": {
+      "nl": "JT Products",
+      "de": "JT Products",
+      "fr": "JT Products",
+      "en": "JT Products",
+      "it": "JT Products",
+      "es": "JT Products",
+      "pl": "JT Products"
+    },
+    "header.general.cart": {
+      "de": "Warenkorb",
+      "fr": "Panier",
+      "en": "Cart",
+      "it": "Carrello",
+      "es": "Carrito",
+      "pl": "Koszyk"
+    },
+    "sections.header.cart": {
+      "de": "Warenkorb",
+      "fr": "Panier",
+      "en": "Cart",
+      "it": "Carrello",
+      "es": "Carrito",
+      "pl": "Koszyk"
+    },
+    "general.cart.title": {
+      "de": "Warenkorb",
+      "fr": "Panier",
+      "en": "Cart",
+      "it": "Carrello",
+      "es": "Carrito",
+      "pl": "Koszyk"
+    },
+    "templates.cart.cart": {
+      "de": "Warenkorb",
+      "fr": "Panier",
+      "en": "Cart",
+      "it": "Carrello",
+      "es": "Carrito",
+      "pl": "Koszyk"
+    },
+    "customer.account.title": {
+      "de": "Konto",
+      "fr": "Compte",
+      "en": "Account",
+      "it": "Account",
+      "es": "Cuenta",
+      "pl": "Konto"
+    },
+    "contact.form.name": {
+      "de": "Name",
+      "fr": "Nom",
+      "en": "Name",
+      "it": "Nome",
+      "es": "Nombre",
+      "pl": "Imię"
+    },
+    "contact.form.email": {
+      "de": "E-Mail-Adresse",
+      "fr": "Adresse e-mail",
+      "en": "Email address",
+      "it": "Indirizzo email",
+      "es": "Correo electrónico",
+      "pl": "Adres e-mail"
+    },
+    "home_page.newsletter.input": {
+      "de": "E-Mail-Adresse",
+      "fr": "Adresse e-mail",
+      "en": "Email address",
+      "it": "Indirizzo email",
+      "es": "Correo electrónico",
+      "pl": "Adres e-mail"
+    },
+    "home_page.newsletter.submit": {
+      "de": "Abonnieren",
+      "fr": "S'abonner",
+      "en": "Subscribe",
+      "it": "Iscriviti",
+      "es": "Suscribirse",
+      "pl": "Zapisz się"
+    },
+    "home_page.newsletter.success": {
+      "de": "Danke für Ihre Anmeldung.",
+      "fr": "Merci pour votre inscription.",
+      "en": "Thanks for subscribing.",
+      "it": "Grazie per l'iscrizione.",
+      "es": "Gracias por suscribirte.",
+      "pl": "Dziękujemy za zapisanie się."
+    },
+    "footer.newsletter.input": {
+      "de": "E-Mail-Adresse",
+      "fr": "Adresse e-mail",
+      "en": "Email address",
+      "it": "Indirizzo email",
+      "es": "Correo electrónico",
+      "pl": "Adres e-mail"
+    },
+    "footer.newsletter.submit": {
+      "de": "Abonnieren",
+      "fr": "S'abonner",
+      "en": "Subscribe",
+      "it": "Iscriviti",
+      "es": "Suscribirse",
+      "pl": "Zapisz się"
+    }
+  },
+  "themeStrings": {
+    "tuning advice by experts": {
+      "de": "Tuning-Beratung von Experten",
+      "fr": "Conseils tuning par des experts",
+      "en": "Tuning advice by experts",
+      "it": "Consulenza tuning da esperti",
+      "es": "Asesoramiento de tuning por expertos",
+      "pl": "Porady tuningowe od ekspertów"
+    }
+  }
+}

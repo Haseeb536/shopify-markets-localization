@@ -1,0 +1,26 @@
+{
+  "_comment": "English body copy — lowercase enthusiast terms mid-sentence",
+  "replacements": [
+    { "find": "This Intake fits", "replace": "This intake fits" },
+    { "find": "this Intake fits", "replace": "this intake fits" },
+    { "find": "90mm Intake tube", "replace": "90mm intake tube" },
+    { "find": "90 mm Intake tube", "replace": "90 mm intake tube" },
+    { "find": "Forge carbon fibre Intake", "replace": "Forge carbon fibre intake" },
+    { "find": "branded Intake and", "replace": "branded intake and" },
+    { "find": "Is this Intake direct", "replace": "Is this intake direct" },
+    { "find": "this Intake is", "replace": "this intake is" },
+    { "find": "carbon fibre offers", "replace": "Carbon fibre offers" },
+    { "find": "<li>installation instructions</li>", "replace": "<li>Installation instructions</li>" },
+    { "find": "<li>direct mounting</li>", "replace": "<li>Direct mounting</li>" },
+    { "find": "the Intercooler", "replace": "the intercooler" },
+    { "find": "turbo Blanket", "replace": "Turbo Blanket" },
+    { "find": "Forge turbo Blanket", "replace": "Forge Turbo Blanket" },
+    { "find": "The Intercooler", "replace": "The intercooler" },
+    { "find": "an Intercooler", "replace": "an intercooler" },
+    { "find": "An Intercooler", "replace": "An intercooler" },
+    { "find": "for the Intercooler", "replace": "for the intercooler" },
+    { "find": "with the Intercooler", "replace": "with the intercooler" },
+    { "find": "This Intercooler", "replace": "This intercooler" },
+    { "find": "this Intercooler", "replace": "this intercooler" }
+  ]
+}

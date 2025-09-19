@@ -1,0 +1,215 @@
+{
+  "_note": "Product option names + variant values (colors). Applied to PRODUCT_OPTION / PRODUCT_OPTION_VALUE after DeepL.",
+  "optionNames": {
+    "Color": {
+      "DE": "Farbe",
+      "FR": "Couleur",
+      "EN": "Color",
+      "IT": "Colore",
+      "ES": "Color",
+      "PL": "Kolor"
+    },
+    "Kleur": {
+      "DE": "Farbe",
+      "FR": "Couleur",
+      "EN": "Color",
+      "IT": "Colore",
+      "ES": "Color",
+      "PL": "Kolor"
+    },
+    "Maat": {
+      "DE": "Größe",
+      "FR": "Taille",
+      "EN": "Size",
+      "IT": "Taglia",
+      "ES": "Talla",
+      "PL": "Rozmiar"
+    },
+    "Materiaal": {
+      "DE": "Material",
+      "FR": "Matériau",
+      "EN": "Material",
+      "IT": "Materiale",
+      "ES": "Material",
+      "PL": "Materiał"
+    },
+    "wastegate": {
+      "DE": "Filtertyp",
+      "FR": "Type de filtre",
+      "EN": "Filter type",
+      "IT": "Tipo di filtro",
+      "ES": "Tipo de filtro",
+      "PL": "Typ filtra"
+    },
+    "Wastegate": {
+      "DE": "Filtertyp",
+      "FR": "Type de filtre",
+      "EN": "Filter type",
+      "IT": "Tipo di filtro",
+      "ES": "Tipo de filtro",
+      "PL": "Typ filtra"
+    },
+    "Option": {
+      "DE": "Option",
+      "FR": "Option",
+      "EN": "Option",
+      "IT": "Opzione",
+      "ES": "Opción",
+      "PL": "Opcja"
+    }
+  },
+  "values": {
+    "Zwart": {
+      "DE": "Schwarz",
+      "FR": "Noir",
+      "EN": "Black",
+      "IT": "Nero",
+      "ES": "Negro",
+      "PL": "Czarny"
+    },
+    "Wit": {
+      "DE": "Weiß",
+      "FR": "Blanc",
+      "EN": "White",
+      "IT": "Bianco",
+      "ES": "Blanco",
+      "PL": "Biały"
+    },
+    "Blauw": {
+      "DE": "Blau",
+      "FR": "Bleu",
+      "EN": "Blue",
+      "IT": "Blu",
+      "ES": "Azul",
+      "PL": "Niebieski"
+    },
+    "Rood": {
+      "DE": "Rot",
+      "FR": "Rouge",
+      "EN": "Red",
+      "IT": "Rosso",
+      "ES": "Rojo",
+      "PL": "Czerwony"
+    },
+    "Groen": {
+      "DE": "Grün",
+      "FR": "Vert",
+      "EN": "Green",
+      "IT": "Verde",
+      "ES": "Verde",
+      "PL": "Zielony"
+    },
+    "Geel": {
+      "DE": "Gelb",
+      "FR": "Jaune",
+      "EN": "Yellow",
+      "IT": "Giallo",
+      "ES": "Amarillo",
+      "PL": "Żółty"
+    },
+    "Grijs": {
+      "DE": "Grau",
+      "FR": "Gris",
+      "EN": "Grey",
+      "IT": "Grigio",
+      "ES": "Gris",
+      "PL": "Szary"
+    },
+    "Oranje": {
+      "DE": "Orange",
+      "FR": "Orange",
+      "EN": "Orange",
+      "IT": "Arancione",
+      "ES": "Naranja",
+      "PL": "Pomarańczowy"
+    },
+    "Paars": {
+      "DE": "Lila",
+      "FR": "Violet",
+      "EN": "Purple",
+      "IT": "Viola",
+      "ES": "Morado",
+      "PL": "Fioletowy"
+    },
+    "Red": {
+      "DE": "Rot",
+      "FR": "Rouge",
+      "EN": "Red",
+      "IT": "Rosso",
+      "ES": "Rojo",
+      "PL": "Czerwony"
+    },
+    "Black": {
+      "DE": "Schwarz",
+      "FR": "Noir",
+      "EN": "Black",
+      "IT": "Nero",
+      "ES": "Negro",
+      "PL": "Czarny"
+    },
+    "Blue": {
+      "DE": "Blau",
+      "FR": "Bleu",
+      "EN": "Blue",
+      "IT": "Blu",
+      "ES": "Azul",
+      "PL": "Niebieski"
+    },
+    "White": {
+      "DE": "Weiß",
+      "FR": "Blanc",
+      "EN": "White",
+      "IT": "Bianco",
+      "ES": "Blanco",
+      "PL": "Biały"
+    },
+    "Foam": {
+      "DE": "Schaum",
+      "FR": "Mousse",
+      "EN": "Foam",
+      "IT": "Schiuma",
+      "ES": "Espuma",
+      "PL": "Pianka"
+    },
+    "Cotton": {
+      "DE": "Baumwolle",
+      "FR": "Coton",
+      "EN": "Cotton",
+      "IT": "Cotone",
+      "ES": "Algodón",
+      "PL": "Bawełna"
+    },
+    "Met Klemmen": {
+      "DE": "Mit Klemmen",
+      "FR": "Avec colliers",
+      "EN": "With clamps",
+      "IT": "Con fascette",
+      "ES": "Con abrazaderas",
+      "PL": "Z opaskami"
+    },
+    "Zonder Klemmen": {
+      "DE": "Ohne Klemmen",
+      "FR": "Sans colliers",
+      "EN": "Without clamps",
+      "IT": "Senza fascette",
+      "ES": "Sin abrazaderas",
+      "PL": "Bez opasek"
+    },
+    "No Clamps": {
+      "DE": "Ohne Klemmen",
+      "FR": "Sans colliers",
+      "EN": "Without clamps",
+      "IT": "Senza fascette",
+      "ES": "Sin abrazaderas",
+      "PL": "Bez opasek"
+    },
+    "Met klem": {
+      "DE": "Mit Klemmen",
+      "FR": "Avec colliers",
+      "EN": "With clamps",
+      "IT": "Con fascette",
+      "ES": "Con abrazaderas",
+      "PL": "Z opaskami"
+    }
+  }
+}

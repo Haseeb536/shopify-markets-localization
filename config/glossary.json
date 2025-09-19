@@ -1,0 +1,163 @@
+{
+  "_note": "Custom overrides only. Core motorsport terms live in config/motorsport-terminology.json (auto-merged).",
+  "Forge": {
+    "DE": "Forge",
+    "FR": "Forge",
+    "EN": "Forge",
+    "IT": "Forge",
+    "ES": "Forge",
+    "PL": "Forge"
+  },
+  "Forge Motorsport": {
+    "DE": "Forge Motorsport",
+    "FR": "Forge Motorsport",
+    "EN": "Forge Motorsport",
+    "IT": "Forge Motorsport",
+    "ES": "Forge Motorsport",
+    "PL": "Forge Motorsport"
+  },
+  "Interkoeler": {
+    "DE": "Ladeluftkühler",
+    "FR": "Intercooler",
+    "EN": "Intercooler",
+    "IT": "Intercooler",
+    "ES": "Intercooler",
+    "PL": "Intercooler"
+  },
+  "Verstelbare actuator": {
+    "DE": "Verstellbarer Stellantrieb",
+    "FR": "Actionneur réglable",
+    "EN": "Adjustable actuator",
+    "IT": "Attuatore regolabile",
+    "ES": "Actuador regulable",
+    "PL": "Regulowany siłownik"
+  },
+  "Siliconen slangenset": {
+    "DE": "Silikon-Schlauchset",
+    "FR": "Kit de durites silicone",
+    "EN": "Silicone hose kit",
+    "IT": "Kit tubi in silicone",
+    "ES": "Kit de mangueras de silicona",
+    "PL": "Zestaw węży silikonowych"
+  },
+  "tuning": {
+    "DE": "Tuning",
+    "FR": "tuning",
+    "EN": "tuning",
+    "IT": "tuning",
+    "ES": "tuning",
+    "PL": "tuning"
+  },
+  "Tuning": {
+    "DE": "Tuning",
+    "FR": "tuning",
+    "EN": "tuning",
+    "IT": "tuning",
+    "ES": "tuning",
+    "PL": "tuning"
+  },
+  "Vervangingsfilter": {
+    "DE": "Ersatzluftfilter",
+    "FR": "Filtre de rechange",
+    "EN": "Replacement filter",
+    "IT": "Filtro di ricambio",
+    "ES": "Filtro de repuesto",
+    "PL": "Filtr zamienny"
+  },
+  "Radiateur": {
+    "DE": "Kühler",
+    "FR": "Radiateur",
+    "EN": "Radiator",
+    "IT": "Radiatore",
+    "ES": "Radiador",
+    "PL": "Chłodnica"
+  },
+  "Schakelpook": {
+    "DE": "Schaltknauf",
+    "FR": "Pommeau de levier",
+    "EN": "Shift Knob",
+    "IT": "Pomello del cambio",
+    "ES": "Pomo de palanca",
+    "PL": "Gałka zmiany biegów"
+  },
+  "Turbo slang": {
+    "DE": "Turboschlauch",
+    "FR": "Durite turbo",
+    "EN": "Turbo hose",
+    "IT": "Tubo turbo",
+    "ES": "Manguera turbo",
+    "PL": "Przewód turbosprężarki"
+  },
+  "Turbo Inlet": {
+    "DE": "Turbo Inlet",
+    "FR": "Turbo Inlet",
+    "EN": "Turbo Inlet",
+    "IT": "Turbo Inlet",
+    "ES": "Turbo Inlet",
+    "PL": "Turbo Inlet"
+  },
+  "Turbo Inlet Kit": {
+    "DE": "Turbo Inlet Kit",
+    "FR": "Turbo Inlet Kit",
+    "EN": "Turbo Inlet Kit",
+    "IT": "Turbo Inlet Kit",
+    "ES": "Turbo Inlet Kit",
+    "PL": "Turbo Inlet Kit"
+  },
+  "Recirculation Valve Kit": {
+    "DE": "Recirculation Valve Kit",
+    "FR": "Recirculation Valve Kit",
+    "EN": "Recirculation Valve Kit",
+    "IT": "Recirculation Valve Kit",
+    "ES": "Recirculation Valve Kit",
+    "PL": "Recirculation Valve Kit"
+  },
+  "recirculation valve": {
+    "DE": "Recirculation Valve",
+    "FR": "Recirculation Valve",
+    "EN": "recirculation valve",
+    "IT": "Recirculation Valve",
+    "ES": "Recirculation Valve",
+    "PL": "Recirculation Valve"
+  },
+  "Short Shift": {
+    "DE": "Short Shift",
+    "FR": "Short Shift",
+    "EN": "Short Shift",
+    "IT": "Short Shift",
+    "ES": "Short Shift",
+    "PL": "Short Shift"
+  },
+  "Short Shift Kit": {
+    "DE": "Short Shift Kit",
+    "FR": "Short Shift Kit",
+    "EN": "Short Shift Kit",
+    "IT": "Short Shift Kit",
+    "ES": "Short Shift Kit",
+    "PL": "Short Shift Kit"
+  },
+  "Turbo Blanket": {
+    "DE": "Turbo Blanket",
+    "FR": "Turbo Blanket",
+    "EN": "Turbo Blanket",
+    "IT": "Turbo Blanket",
+    "ES": "Turbo Blanket",
+    "PL": "Turbo Blanket"
+  },
+  "short shifter": {
+    "DE": "Short Shift",
+    "FR": "Short Shift",
+    "EN": "Short Shift",
+    "IT": "Short Shift",
+    "ES": "Short Shift",
+    "PL": "Short Shift"
+  },
+  "short shift kit": {
+    "DE": "Short Shift Kit",
+    "FR": "Short Shift Kit",
+    "EN": "Short Shift Kit",
+    "IT": "Short Shift Kit",
+    "ES": "Short Shift Kit",
+    "PL": "Short Shift Kit"
+  }
+}

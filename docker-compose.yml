@@ -1,0 +1,12 @@
+# Redis for BullMQ translation worker (optional — only needed for npm run worker / queued jobs).
+services:
+  redis:
+    image: redis:7-alpine
+    ports:
+      - '6379:6379'
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+
+volumes:
+  redis_data:
