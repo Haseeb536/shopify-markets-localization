@@ -156,14 +156,6 @@ Includes Liquid snippet wiring for hardcoded Dutch strings. Powerful but can aff
 
 ---
 
-## Security notes
-
-- **Never commit** `.env`, API keys, or `data/shopify-token.json`
-- Rotate any key that was ever pasted in chat or committed by mistake
-- Use a **dev / duplicate theme** before running full theme sync on production
-
----
-
 ## Troubleshooting
 
 | Problem | Try this |
